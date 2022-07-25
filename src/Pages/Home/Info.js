@@ -9,7 +9,7 @@ const Info = () => {
     title1: "Opening Hours",
     title2: "Visit Our Location",
     title3: "Contact Us Now",
-    accent: "bg-accent",
+    accent: "bg-neutral",
     gradient: "bg-gradient-to-r from-secondary to-primary",
   };
   return (
