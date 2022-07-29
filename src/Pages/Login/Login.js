@@ -30,7 +30,7 @@ const Login = () => {
                 {...register("email", {
                   required: true,
                   pattern: {
-                    value: /[A-Za-z]{3}/,
+                    value: /[A-Za-z]{5}/,
                     message: "error message",
                   },
                 })}
